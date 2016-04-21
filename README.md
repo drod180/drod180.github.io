@@ -1,3 +1,3 @@
 # Portfolio
 
-[Live](https://www.drodriguez.io)
+[Live](http://www.drodriguez.io)
