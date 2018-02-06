@@ -1,3 +1,1 @@
-# Portfolio
-
-[Live](http://www.drodriguez.io)
+# Github pages redirect
